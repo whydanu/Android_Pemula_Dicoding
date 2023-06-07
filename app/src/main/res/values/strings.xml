@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gunung Indonesia</string>
+    <string name="mountain_name">mountain_name</string>
+    <string name="mountain_detail">mountain_detail</string>
+    <string name="about_name">Andanu Ari Handoko</string>
+    <string name="about_email">andanuarh@gmail.com</string>
+    <string name="about_phone">Phone : \t 087780877529</string>
+    <string name="about_github">Github : \t whydanu</string>
+    <string name="about_ig">Instagram : \t @why_danu</string>
+</resources>
